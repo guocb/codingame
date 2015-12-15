@@ -1,0 +1,3 @@
+# Readme
+Solutions for http://codingame.com/
+
