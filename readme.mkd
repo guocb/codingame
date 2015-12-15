@@ -1,3 +1,4 @@
 # Readme
 Solutions for http://codingame.com/
+My profile: https://www.codingame.com/profile/2b1f10a05d8625bd7c3bde6782ee659b0315511
 
